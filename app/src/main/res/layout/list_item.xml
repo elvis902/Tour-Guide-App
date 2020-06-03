@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/location_site"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/list_item_dimension"
+        tools:text="TextView1" />
+
+    <TextView
+        android:id="@+id/delux_restaurent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/list_item_dimension"
+        tools:text="TextView1" />
+
+    <TextView
+        android:id="@+id/budget_restaurent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/list_item_dimension"
+        tools:text="TextView1" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/reach_by_land_guide"
+        style="@style/list_item_dimension"
+        tools:text="TextView1"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/reach_by_air_guide"
+        tools:text="TextView1"
+        style="@style/list_item_dimension" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/historical_place"
+        tools:text="TextView1"
+        style="@style/list_item_dimension" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/must_visit_site"
+        tools:text="TextView1"
+        style="@style/list_item_dimension" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">NorthEast India Tour Guide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="assam">Assam</string>
+    <string name="meghalaya">Meghalaya</string>
+    <string name="nagaland">Nagaland</string>
+    <string name="gallery">Gallery</string>
+
+
+
+ // For Assam
+    <string name="assam_site1_locationSite">Location: Guwahati</string>
+    <string name="assam_site1_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="assam_site1_budgetRestaurent">Budget Restaurent: </string>
+    <string name="assam_site1_reachByLand">Train Station:</string>
+    <string name="assam_site1_reachByAir">Flights: </string>
+    <string name="assam_site1_historicalPlace">Historical Place to Visit: </string>
+    <string name="assam_site1_mustVisitSite">Popular Site: </string>
+
+    <string name="assam_site2_locationSite">Location: Jorhat</string>
+    <string name="assam_site2_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="assam_site2_budgetRestaurent">Budget Restaurent: </string>
+    <string name="assam_site2_reachByLand">Train Station: </string>
+    <string name="assam_site2_reachByAir">Flights: </string>
+    <string name="assam_site2_historicalPlace">Historical Place to Visit: </string>
+    <string name="assam_site2_mustVisitSite">Popular Site: </string>
+
+    <string name="assam_site3_locationSite">Location: Kaziranga</string>
+    <string name="assam_site3_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="assam_site3_budgetRestaurent">Budget Restaurent: </string>
+    <string name="assam_site3_reachByLand">Train Station: </string>
+    <string name="assam_site3_reachByAir">Air Port: </string>
+    <string name="assam_site3_historicalPlace">Historical Place to Visit: </string>
+    <string name="assam_site3_mustVisitSite">Popular Site: </string>
+
+
+
+ // For Meghalaya
+    <string name="meghalaya_site1_locationSite">Location: Shillong</string>
+    <string name="meghalaya_site1_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="meghalaya_site1_budgetRestaurent">Budget Restaurent: </string>
+    <string name="meghalaya_site1_reachByLand">Train Station: </string>
+    <string name="meghalaya_site1_reachByAir">Flights: </string>
+    <string name="meghalaya_site1_historicalPlace">Historical Place to Visit: </string>
+    <string name="meghalaya_site1_mustVisitSite">Popular Site: </string>
+
+    <string name="meghalaya_site2_locationSite">Location: Cherrapunji</string>
+    <string name="meghalaya_site2_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="meghalaya_site2_budgetRestaurent">Budget Restaurent: </string>
+    <string name="meghalaya_site2_reachByLand">Train Station:</string>
+    <string name="meghalaya_site2_reachByAir">Flights: </string>
+    <string name="meghalaya_site2_historicalPlace">Historical Place to Visit: </string>
+    <string name="meghalaya_site2_mustVisitSite">Popular Site: </string>
+
+    <string name="meghalaya_site3_locationSite">Location: Dawki</string>
+    <string name="meghalaya_site3_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="meghalaya_site3_budgetRestaurent">Budget Restaurent: </string>
+    <string name="meghalaya_site3_reachByLand">Train Station: </string>
+    <string name="meghalaya_site3_reachByAir">Flights: </string>
+    <string name="meghalaya_site3_historicalPlace">Historical Place to Visit: </string>
+    <string name="meghalaya_site3_mustVisitSite">Popular Site: </string>
+
+
+
+    // For Nagaland
+    <string name="nagaland_site1_locationSite">Location: Kohima</string>
+    <string name="nagaland_site1_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="nagaland_site1_budgetRestaurent">Budget Restaurent: </string>
+    <string name="nagaland_site1_reachByLand">Train Station:</string>
+    <string name="nagaland_site1_reachByAir">Flights: </string>
+    <string name="nagaland_site1_historicalPlace">Historical Place to Visit: </string>
+    <string name="nagaland_site1_mustVisitSite">Popular Site: </string>
+
+    <string name="nagaland_site2_locationSite">Location: Dimapur</string>
+    <string name="nagaland_site2_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="nagaland_site2_budgetRestaurent">Budget Restaurent: </string>
+    <string name="nagaland_site2_reachByLand">Train Station:</string>
+    <string name="nagaland_site2_reachByAir">Flights: </string>
+    <string name="nagaland_site2_historicalPlace">Historical Place to Visit: </string>
+    <string name="nagaland_site2_mustVisitSite">Popular Site: </string>
+
+    <string name="nagaland_site3_locationSite">Location: Mokokchang</string>
+    <string name="nagaland_site3_deluxrRestaurent">Delux Restaurent: </string>
+    <string name="nagaland_site3_budgetRestaurent">Budget Restaurent: </string>
+    <string name="nagaland_site3_reachByLand">Train Station:</string>
+    <string name="nagaland_site3_reachByAir">Flights: </string>
+    <string name="nagaland_site3_historicalPlace">Historical Place to Visit: </string>
+    <string name="nagaland_site3_mustVisitSite">Popular Site: </string>
+
+
+
+
+
+
+
+
+
+</resources>
+
